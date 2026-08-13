@@ -1,4 +1,4 @@
-# MyApp
+# Hitung_SE2026
 
 Project Android WebView siap di-build menjadi APK.
 
@@ -23,8 +23,8 @@ hasil rename ZIP selalu ditolak Android dengan pesan "Tidak dapat mengurai paket
 gradle assembleDebug
 
 ## Info aplikasi
-- Nama: MyApp
-- Package: com.app.myapp
+- Nama: Hitung_SE2026
+- Package: com.app.hitung_se2026
 - Versi: 1.0.0
 - Orientasi: portrait
 - Warna tema: #6366f1

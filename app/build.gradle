@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.app.myapp'
+    namespace 'com.app.hitung_se2026'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.app.myapp"
+        applicationId "com.app.hitung_se2026"
         minSdk 22
         targetSdk 34
         versionCode 1
